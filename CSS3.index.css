@@ -1,0 +1,78 @@
+a{
+	color: gold ;
+	text-decoration: none;
+    font-size: 15px;
+
+}
+p { 
+	font-size: 30px;
+}
+
+body {
+	background-color: rgb(169,169,169)
+}
+
+img {
+	width:300px;
+	
+}
+
+h2	{
+	background-color: gold;
+    width: 100px;
+}
+
+
+ol	{
+	font-size: 30px;
+
+}
+
+ul	{
+	font-size: 30px
+}
+
+or
+ol,ul {
+	font-size: 30px;
+
+}
+
+ol	{
+	color: gold;
+}
+
+if you want everything to be the same
+
+ul,ol,a,p,h1...{}
+
+.pink-text : {
+	color: pink;
+
+}
+
+p {
+	text-align: center;
+	color: gold
+}
+
+.blue {
+	color: blue
+}
+#brown.poncho {
+color:brown;
+}
+.green {
+	color: green;
+}
+
+button {
+	background-color:  red;
+	color: #ffffff;
+	border: none;
+	height: 50px;
+	width: 100px;
+}
+
+
+
